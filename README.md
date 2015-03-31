@@ -1,9 +1,9 @@
 # poster
 Repo of all poster files for final presentation.
-team name
-project sponsor
-project name
-contact information for all team members
+- team name
+- project sponsor
+- project name
+- contact information for all team members
 
 included files:
 - native original format
